@@ -1,8 +1,11 @@
 2071112
 1227274
----
+
 ## Componenti
-[Processori](processori.md)
-[Schede Madri](schede_madri.md)
----
+
+[Processori](componenti/processori.md)
+[Schede Madri](componenti/schede_madri.md)
+
+## Periferiche
+
 Elettronica Padovana
